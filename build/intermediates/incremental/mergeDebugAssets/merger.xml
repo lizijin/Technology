@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/jiangbin/Desktop/theme/CLockerTechnology/assets"><file name="font/04B_03B.ttf" path="/Users/jiangbin/Desktop/theme/CLockerTechnology/assets/font/04B_03B.ttf"/><file name="font/7px2bus.ttf" path="/Users/jiangbin/Desktop/theme/CLockerTechnology/assets/font/7px2bus.ttf"/></source></dataSet><dataSet config="debug"><source path="/Users/jiangbin/Desktop/theme/CLockerTechnology/build-types/debug/assets"/></dataSet></merger>

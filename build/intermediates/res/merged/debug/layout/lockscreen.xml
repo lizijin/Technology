@@ -1,0 +1,124 @@
+<com.cyou.cma.clocker.theme.technology.CLockScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lockview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+    <com.cyou.cma.clocker.theme.technology.TimeView
+        android:id="@+id/timeview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="150dp" />
+
+    <com.cyou.cma.clocker.theme.technology.SdkImageView
+        android:id="@+id/call_imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="222dp"
+        android:background="@drawable/call_selector"
+        android:clickable="true"
+        android:visibility="gone" />
+
+    <com.cyou.cma.clocker.theme.technology.SdkImageView
+        android:id="@+id/message_imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="49dp"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/message_selector"
+        android:clickable="true"
+        android:visibility="gone" />
+
+    <com.cyou.cma.clocker.theme.technology.SdkImageView
+        android:id="@+id/call_under_imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="397dp"
+        android:background="@drawable/call_under_selector"
+        android:clickable="true" />
+
+    <com.cyou.cma.clocker.theme.technology.SdkImageView
+        android:id="@+id/message_under_imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="397dp"
+        android:background="@drawable/message_under_selector"
+        android:clickable="true" />
+
+    <com.cyou.cma.clocker.theme.technology.SdkImageView
+        android:id="@+id/call_under_imageview2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="397dp"
+        android:background="@drawable/call_under_selector"
+        android:clickable="true" />
+
+    <com.cyou.cma.clocker.theme.technology.SdkImageView
+        android:id="@+id/message_under_imageview2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="397dp"
+        android:background="@drawable/message_under_selector"
+        android:clickable="true" />
+
+    <com.cyou.cma.clocker.theme.technology.SdkImageView
+        android:id="@+id/arrow_imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="435dp"
+        android:background="@drawable/arrow"
+        android:clickable="true" />
+
+    <com.cyou.cma.clocker.theme.technology.UnlockImageView
+        android:id="@+id/unlock_imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="482dp" />
+
+    <com.cyou.cma.clocker.theme.technology.MissedImageView
+        android:id="@+id/call_missed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="190dp"
+        android:background="@drawable/missed_call_ring"
+        android:visibility="gone" />
+
+    <com.cyou.cma.clocker.theme.technology.MissedImageView
+        android:id="@+id/message_missed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="32dp"
+        android:layout_marginTop="212dp"
+        android:background="@drawable/missed_call_ring"
+        android:visibility="gone" />
+
+    <com.cyou.cma.clocker.theme.technology.UpSurfaceView
+        android:id="@+id/up_surfaceview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+          android:layout_marginTop="-100dp"
+        />
+
+    <com.cyou.cma.clocker.theme.technology.DownSurfaceView
+        android:id="@+id/down_surfaceview"
+        android:layout_marginTop="-100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         />
+    
+
+</com.cyou.cma.clocker.theme.technology.CLockScreen>

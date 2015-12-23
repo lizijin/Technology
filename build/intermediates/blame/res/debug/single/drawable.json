@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/jiangbin/Desktop/theme/CLockerTechnology/build/intermediates/res/merged/debug/drawable/call_under_animation.xml",
+        "source": "/Users/jiangbin/Desktop/theme/CLockerTechnology/res/drawable/call_under_animation.xml"
+    },
+    {
+        "merged": "/Users/jiangbin/Desktop/theme/CLockerTechnology/build/intermediates/res/merged/debug/drawable/message_under_animation.xml",
+        "source": "/Users/jiangbin/Desktop/theme/CLockerTechnology/res/drawable/message_under_animation.xml"
+    },
+    {
+        "merged": "/Users/jiangbin/Desktop/theme/CLockerTechnology/build/intermediates/res/merged/debug/drawable/call_selector.xml",
+        "source": "/Users/jiangbin/Desktop/theme/CLockerTechnology/res/drawable/call_selector.xml"
+    },
+    {
+        "merged": "/Users/jiangbin/Desktop/theme/CLockerTechnology/build/intermediates/res/merged/debug/drawable/call_under_selector.xml",
+        "source": "/Users/jiangbin/Desktop/theme/CLockerTechnology/res/drawable/call_under_selector.xml"
+    },
+    {
+        "merged": "/Users/jiangbin/Desktop/theme/CLockerTechnology/build/intermediates/res/merged/debug/drawable/message_under_selector.xml",
+        "source": "/Users/jiangbin/Desktop/theme/CLockerTechnology/res/drawable/message_under_selector.xml"
+    },
+    {
+        "merged": "/Users/jiangbin/Desktop/theme/CLockerTechnology/build/intermediates/res/merged/debug/drawable/arrow.xml",
+        "source": "/Users/jiangbin/Desktop/theme/CLockerTechnology/res/drawable/arrow.xml"
+    },
+    {
+        "merged": "/Users/jiangbin/Desktop/theme/CLockerTechnology/build/intermediates/res/merged/debug/drawable/message_selector.xml",
+        "source": "/Users/jiangbin/Desktop/theme/CLockerTechnology/res/drawable/message_selector.xml"
+    }
+]
